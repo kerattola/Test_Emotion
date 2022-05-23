@@ -1,0 +1,21 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  scale1: 1
+  scale2: 1
+  scale3: 1
+  scale4: 1
+  scale5: 1
+  emosum: 1
+  time: 1
+  user: one
+
+two:
+  scale1: 1
+  scale2: 1
+  scale3: 1
+  scale4: 1
+  scale5: 1
+  emosum: 1
+  time: 1
+  user: two
